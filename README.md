@@ -2,7 +2,7 @@
 
 
 
- <h1>I'm Kunj</h1>
+ <!-- <h1>I'm Kunj</h1>-->
 <h3>Bridging Design & Technology</h3>
 
 <p>Email: kunjsharma@hotmail.com</p>
